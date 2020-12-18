@@ -1,4 +1,4 @@
-Exo2bis
+Exo2
 
 # TP INSA
 
